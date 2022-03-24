@@ -3,7 +3,7 @@
 # which contains domain names as keys, and a list of
 # users as values. Fill in the blanks to generate a
 # list that contains complete email addresses
-# (e.g. diana.prince@gmail.com).
+# (e.g. bruce.wayne@gmail.com).
 ###################################################
 
 def email_list(domains):
