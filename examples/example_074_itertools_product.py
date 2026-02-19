@@ -1,0 +1,3 @@
+from itertools import product
+
+print(list(product(["S", "M"], ["red", "blue"])))
