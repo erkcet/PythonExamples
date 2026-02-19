@@ -5,7 +5,7 @@ A collection of 100 Python examples for learners.
 ## What is included
 
 - 29 original examples in the repository root.
-- 71 new examples in `examples/` (`example_030_*.py` to `example_100_*.py`).
+- 71 new examples in the repository root (`example_030_*.py` to `example_100_*.py`).
 
 ## Topic coverage
 
@@ -25,10 +25,9 @@ A collection of 100 Python examples for learners.
 Run any example directly:
 
 ```bash
-python3 examples/example_033_list_comprehension.py
+python3 example_033_list_comprehension.py
 ```
 
-Or run one of the original files:
 
 ```bash
 python3 factorial.py
